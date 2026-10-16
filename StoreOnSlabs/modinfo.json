@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "storeonslabs",
+    "name": "Store On Slabs",
+    "authors": [
+        "CDD", "unanimousveto"
+    ],
+    "description": "Store items on top of and next to slabs and stairs.",
+    "version": "0.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}
